@@ -2,7 +2,9 @@ package com.ArrayTest;
 
 public class Array2 {
 
-	private void psvm() {
+	public static void main(String[] args) {
+		
+	 
 		System.out.println();
 		// TODO Auto-generated method stub
 
